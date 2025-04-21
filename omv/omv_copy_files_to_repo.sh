@@ -11,4 +11,4 @@ mkdir -p ./etc/ssh/
 cp /etc/ssh/sshd_config ./etc/ssh/
 
 echo "Showing latest tree"
-tree -Dfsh
+tree -Dfsha
