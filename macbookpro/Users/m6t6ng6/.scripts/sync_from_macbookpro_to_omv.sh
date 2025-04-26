@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # === CONFIGURATION ===
-LOCAL_DIR="/Users/m6t6ng6/Documents/VIDEOS QUE NO PUDE GRABAR EN EXTERNO"           # Folder on your Mac
+LOCAL_DIR="/Users/m6t6ng6/Documents"           # Folder on your Mac
 REMOTE_USER="root"	                         # Linux server user
 REMOTE_HOST="omv.matanga.it"                 # Linux server hostname or IP
 REMOTE_DIR="/srv/dev-disk-by-uuid-23deda77-cb32-467d-a5ae-4c93b4fe4b56/backup/macbook_docs_backup"   # Destination on the Linux server
